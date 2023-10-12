@@ -2,6 +2,6 @@
 Beginner guide to kafka through python
 
 -> Installing kafka on windows through WSL (Windows subsystem for LINUX)
-open command prompt
-_**wsl --install -d Ubuntu**_
+<br> open command prompt
+<br> _**wsl --install -d Ubuntu**_
 
